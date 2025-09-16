@@ -1,14 +1,15 @@
 criaCartao(
-    'categoria',
+    'conhecimentos gerais',
     'pergunta',
     'resposta'
 )
 
 criaCartao(
-    'conhecimanto gerais',
+    'conhecimentos gerais',
     'Em uma corrida, você ultrapassa o segundo colocado. Em que posição você está agora?',
     '2º colocado. A pegadinha é que ao ultrapassar o segundo, você fica com a posição dele, não a primeira.'
 )
+
 
 criaCartao(
     'conhecimento gerais',
@@ -35,7 +36,37 @@ criaCartao(
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'conhecimentos gerais',
+    'Em que ano a Primeira Guerra Mundial teve início?',
+    '1914'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    'Em qual continente está localizada a cordilheira dos Andes?',
+    'América do Sul'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    'Quem foi o líder da revolução russa de 1917?',
+    'Vladimir Lenin'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    'Quais são os cinco oceanos que existem no planeta?',
+    'Atlântico, Pacífico, Índico, Ártico e Antártico'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    ' Quem foi o responsável pela teoria da evolução das espécies?',
+    'respostaCharles Darwin.'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    'Qual país foi sede dos Jogos Olímpicos de 2020 (realizados em 2021)?',
+    'Japão'
 )
