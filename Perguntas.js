@@ -62,7 +62,7 @@ criaCartao(
 criaCartao(
     'conhecimentos gerais',
     ' Quem foi o responsável pela teoria da evolução das espécies?',
-    'respostaCharles Darwin.'
+    'Charles Darwin.'
 )
 
 criaCartao(
