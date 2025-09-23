@@ -16,7 +16,7 @@ cartao.innerHTML= `
 
 let respostaEstaVisivel = false
 
-funtion viraCaratao(){
+function viraCaratao(){
     respostaEstaVisivel=!respostaEstaVisivel
 }
 
