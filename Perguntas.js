@@ -1,8 +1,4 @@
-criaCartao(
-    'conhecimentos gerais',
-    'pergunta',
-    'resposta'
-)
+
 
 criaCartao(
     'conhecimentos gerais',
