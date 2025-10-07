@@ -100,3 +100,21 @@
      margin-top: 0.5rem;
 
  }
+
+ @media (max-width: 560px){
+    body{
+        background-color: rgb(206, 181, 70);
+    }
+
+.cartão{
+    flex:1.0 calc(100% - 1rem)
+}
+
+.cartão__conteudo h3{
+    font-size: 3vw;
+}
+
+.cartão__conteudo p{
+    font-size: 3.8vw;
+}
+ }
